@@ -1,0 +1,13 @@
+
+  .container {
+    display: flex;
+    align-items: center; /* Vertically align the elements in the center */
+    margin: 8px;
+
+  }
+
+  #campo_A, #campo_B {
+
+    margin-left: 8px;
+
+  }
